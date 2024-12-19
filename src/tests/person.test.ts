@@ -1,7 +1,7 @@
 import { describe, expect, test } from "vitest";
 
 const person = {
-  isActive: false, //Temp to test if test actually fails
+  isActive: true,
   age: 32,
 };
 
