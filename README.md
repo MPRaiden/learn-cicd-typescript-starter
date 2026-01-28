@@ -25,4 +25,4 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 MPR version of Boot.dev's Notely app.
 
-![Test coverage](https://github.com/<MPRaiden>/<https://github.com/MPRaiden/learn-cicd-typescript-starter>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+[![ci](https://github.com/MPRaiden/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/MPRaiden/learn-cicd-typescript-starter/actions/workflows/ci.yml)
